@@ -1,0 +1,6 @@
+version  1:实现了基本的移动。
+version 2： 增加了本地存储
+version 3：将文件重新分为模块
+version 4：将文件修改为面向对象的写法
+           
+
