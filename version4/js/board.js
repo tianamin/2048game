@@ -343,8 +343,7 @@ Grid.prototype.newGame = function() {
     //在随机两个各自声称的数字
     this. generateOneNumber();
     this. generateOneNumber();
-    // generateOneNumber();
-    this.updateBoardView()
+    this.updateBoardView();
 };
 Grid.prototype.isGameOver = function() {
      if(this.nospace(this.board)&&this.nomove(this.board))
